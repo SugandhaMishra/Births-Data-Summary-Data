@@ -11,4 +11,6 @@ Created some SQL queries from Births Data Summary Data
   <img width="225" alt="image" src="https://user-images.githubusercontent.com/100853249/156760343-23e38c5d-a082-4d3e-8f1f-adb9f5d113e0.png">
 5. Comparision between Average birth weight and average pre pregnancy BMI - Comparision.SQL
 <img width="253" alt="image" src="https://user-images.githubusercontent.com/100853249/156765755-37041d38-14e9-4e85-b7d8-a30333f5a184.png">
+6. Total Births according to different counties in the US - 
+<img width="230" alt="image" src="https://user-images.githubusercontent.com/100853249/156768769-0b0bff58-53bb-4d37-bc7b-6537e3c69ca0.png">
 
