@@ -7,3 +7,5 @@ Created some SQL queries from Births Data Summary Data
 <img width="348" alt="image" src="https://user-images.githubusercontent.com/100853249/156707583-c7779ca3-ea4b-42f8-88d4-db8502145d69.png">
 3. Average number of births- Avg_Births.SQL
 <img width="138" alt="image" src="https://user-images.githubusercontent.com/100853249/156758159-094a07f5-4ce2-43ee-bd25-bf7fa0bcf946.png">
+4. Total births by mothers between ages 26.7 and 31.61 - 
+  <img width="225" alt="image" src="https://user-images.githubusercontent.com/100853249/156760343-23e38c5d-a082-4d3e-8f1f-adb9f5d113e0.png">
