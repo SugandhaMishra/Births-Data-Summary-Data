@@ -13,4 +13,6 @@ Created some SQL queries from Births Data Summary Data
 <img width="253" alt="image" src="https://user-images.githubusercontent.com/100853249/156765755-37041d38-14e9-4e85-b7d8-a30333f5a184.png">
 6. Total Births according to different counties in the US - Births_counties.SQL
 <img width="230" alt="image" src="https://user-images.githubusercontent.com/100853249/156768769-0b0bff58-53bb-4d37-bc7b-6537e3c69ca0.png">
-7.  Maximum number of average pre pregnancy BMI Asian mothers whose congenital abnormality is not checked -
+7.  Maximum number of average pre pregnancy BMI Asian mothers whose congenital abnormality is not checked - Max_avg_pre_prg_BMI_asian_Mothers.SQL
+<img width="346" alt="image" src="https://user-images.githubusercontent.com/100853249/156804978-9c01e522-682b-44e7-8d3f-f56dfbc7e977.png">
+
