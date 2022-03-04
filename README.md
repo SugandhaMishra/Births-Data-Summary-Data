@@ -9,3 +9,6 @@ Created some SQL queries from Births Data Summary Data
 <img width="138" alt="image" src="https://user-images.githubusercontent.com/100853249/156758159-094a07f5-4ce2-43ee-bd25-bf7fa0bcf946.png">
 4. Total births by mothers between ages 26.7 and 31.61 - County_births_US.SQL
   <img width="225" alt="image" src="https://user-images.githubusercontent.com/100853249/156760343-23e38c5d-a082-4d3e-8f1f-adb9f5d113e0.png">
+5. Comparision between Average birth weight and average pre pregnancy BMI - Comparision.SQL
+<img width="253" alt="image" src="https://user-images.githubusercontent.com/100853249/156765755-37041d38-14e9-4e85-b7d8-a30333f5a184.png">
+
