@@ -15,4 +15,6 @@ Created some SQL queries from Births Data Summary Data
 <img width="230" alt="image" src="https://user-images.githubusercontent.com/100853249/156768769-0b0bff58-53bb-4d37-bc7b-6537e3c69ca0.png">
 7.  Maximum number of average pre pregnancy BMI Asian mothers whose congenital abnormality is not checked - Max_avg_pre_prg_BMI_asian_Mothers.SQL
 <img width="346" alt="image" src="https://user-images.githubusercontent.com/100853249/156804978-9c01e522-682b-44e7-8d3f-f56dfbc7e977.png">
+8. Maximum average birth weight of infants whose fathers are Asians with congenital abnormalities not checked - Max_avg_brth_wgt_asian_fathers.SQL
+<img width="364" alt="image" src="https://user-images.githubusercontent.com/100853249/156806680-1d2cfb14-6dd6-483f-8795-9bf2f7643f1c.png">
 
